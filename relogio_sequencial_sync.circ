@@ -60,6 +60,7 @@
       <a name="appearance" val="NewPins"/>
     </comp>
     <comp lib="0" loc="(190,80)" name="Power"/>
+    <comp lib="0" loc="(200,150)" name="Ground"/>
     <comp lib="0" loc="(200,350)" name="Ground"/>
     <comp lib="0" loc="(400,260)" name="Ground"/>
     <comp lib="0" loc="(420,600)" name="Ground"/>
@@ -169,6 +170,7 @@
     <wire from="(190,720)" to="(670,720)"/>
     <wire from="(190,80)" to="(190,90)"/>
     <wire from="(190,90)" to="(200,90)"/>
+    <wire from="(200,130)" to="(200,150)"/>
     <wire from="(200,330)" to="(200,350)"/>
     <wire from="(200,330)" to="(210,330)"/>
     <wire from="(210,240)" to="(210,290)"/>
